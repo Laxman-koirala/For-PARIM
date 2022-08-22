@@ -1,8 +1,8 @@
 # Complete Automation flow
 - Java Programming language
 - Playwright 
-- Maven (POM)
-- Page Object Model(POM) in order to reduce code duplication
+- Maven
+- Implemented Page Object Model(POM) in order to reduce code duplication
 - TestNG 
 - Log4j for logging
 - Added abstraction layer for test data and static text
